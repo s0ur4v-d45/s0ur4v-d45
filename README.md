@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Sourav Das👋
 
-<!--
-**s0ur4v-d45/s0ur4v-d45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd year student pusuing a Bachelor's in Computer Science studies from Poornima University, Jaipur.I am a problem solving enthusiast, android developer,programmer in Java.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on an Android project _"AlgoVisualizer"_.
+- 🌱 I’m currently learning everything🤣.
+- 🤔 I’m looking for help with some internships to gain hands in experience.
+- 💬 Ask me about **Data Structures and Algorithms, Android application development with Java, Computer Science fundamentals**
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/sourav-das-654363188/) 
+
+
