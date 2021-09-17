@@ -1,6 +1,6 @@
 ### Hi there, I'm Sourav Das👋
 
-I am a 3rd year student pusuing a Bachelor's in Computer Science studies from Poornima University, Jaipur.I am a problem solving enthusiast, android developer,programmer in Java.
+I'm a 3rd year student pursuing a Bachelor's in Computer Science studies from Poornima University, Jaipur.I am a problem solving enthusiast, android developer, programmer in Java.
 
 
 
